@@ -6,7 +6,7 @@ public class TEST1 {
 		// TODO Auto-generated method stub
 		//TEST1
 		
-		//새로운 기능 추가
+		//새로운 기능 추가 + 충돌!!!!!!!
 	}
 
 }
