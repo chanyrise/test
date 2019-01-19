@@ -6,6 +6,8 @@ public class Function1 {
 		// TODO Auto-generated method stub
 
 		// Function1
+		
+		// Function2
 	}
 
 }
