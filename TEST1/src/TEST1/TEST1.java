@@ -1,11 +1,10 @@
-package Test;
+package TEST1;
 
-public class Test {
+public class TEST1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//manager
-		// update1
+		//TEST1
 	}
 
 }
