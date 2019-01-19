@@ -2,6 +2,6 @@ package testing;
 
 public class moon_test {
 	public static void main(String[] args) {
-		// ¹®»ó¼ö±â´É
+		// ë¬¸ìƒìˆ˜ê¸°ëŠ¥
 	}
 }
